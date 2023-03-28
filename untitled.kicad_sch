@@ -121,6 +121,7 @@
     )
   )
 
+
   (junction (at 210.82 97.79) (diameter 0) (color 0 0 0 0)
     (uuid 02aaca64-69ea-4d68-a92e-fd0ac65e9f25)
   )
@@ -1273,7 +1274,7 @@
   (symbol (lib_id "Device:D_Small") (at 149.86 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03d92567-2a32-40a0-a796-c18d0ec4be9d)
-    (property "Reference" "D23" (at 147.32 93.98 0)
+    (property "Reference" "D24" (at 147.32 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 147.32 83.82 0)
@@ -1290,7 +1291,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D23") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -1403,7 +1404,7 @@
   (symbol (lib_id "Device:D_Small") (at 149.86 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a7d2299-7ee1-4c92-a6ad-a18a54cec228)
-    (property "Reference" "D22" (at 147.32 72.39 0)
+    (property "Reference" "D23" (at 147.32 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 147.32 62.23 0)
@@ -1420,7 +1421,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D22") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -1455,7 +1456,7 @@
   (symbol (lib_id "Device:D_Small") (at 210.82 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1982b649-be47-46b8-857d-4bf24dc22e09)
-    (property "Reference" "D36" (at 208.28 72.39 0)
+    (property "Reference" "D37" (at 208.28 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 208.28 62.23 0)
@@ -1472,7 +1473,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D36") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -1481,7 +1482,7 @@
   (symbol (lib_id "Device:D_Small") (at 165.1 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ca69902-beaf-4bcf-a04b-4e0b655debb3)
-    (property "Reference" "D26" (at 162.56 93.98 0)
+    (property "Reference" "D27" (at 162.56 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 162.56 83.82 0)
@@ -1498,7 +1499,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D26") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -1507,7 +1508,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 123.19 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24e80bfa-0379-4f5e-accc-6a88ec00d56d)
-    (property "Reference" "R6" (at 124.0756 58.42 0)
+    (property "Reference" "R7" (at 124.0756 58.42 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 124.0756 59.69 0)
@@ -1524,7 +1525,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "R6") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -1533,7 +1534,7 @@
   (symbol (lib_id "Device:D_Small") (at 165.1 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28013479-e8ed-476a-9265-b93965737216)
-    (property "Reference" "D27" (at 162.56 115.57 0)
+    (property "Reference" "D28" (at 162.56 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 162.56 105.41 0)
@@ -1550,7 +1551,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D27") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -1611,7 +1612,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 33063233-c526-4da0-b419-0ea175ed852a)
-    (property "Reference" "D33" (at 193.04 93.98 0)
+    (property "Reference" "D34" (at 193.04 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 193.04 83.82 0)
@@ -1628,7 +1629,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D33") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -1793,7 +1794,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d65170c-01e6-4600-af20-156814f31d16)
-    (property "Reference" "D32" (at 193.04 72.39 0)
+    (property "Reference" "D33" (at 193.04 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 193.04 62.23 0)
@@ -1810,7 +1811,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D32") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -1845,7 +1846,7 @@
   (symbol (lib_id "Device:D_Small") (at 210.82 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f79e961-5f63-4590-986d-43375fa5a7d5)
-    (property "Reference" "D37" (at 208.28 93.98 0)
+    (property "Reference" "D38" (at 208.28 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 208.28 83.82 0)
@@ -1862,7 +1863,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D37") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -1871,7 +1872,7 @@
   (symbol (lib_id "Device:D_Small") (at 241.3 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 52d5b137-902c-45ad-a0f0-90a8631bdacc)
-    (property "Reference" "D44" (at 238.76 115.57 0)
+    (property "Reference" "D45" (at 238.76 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 238.76 105.41 0)
@@ -1888,7 +1889,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D44") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -2105,7 +2106,7 @@
   (symbol (lib_id "Device:D_Small") (at 165.1 138.43 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6654e084-86d6-487b-bb3e-2c80e372d1a0)
-    (property "Reference" "D28" (at 162.56 137.16 0)
+    (property "Reference" "D29" (at 162.56 137.16 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 162.56 127 0)
@@ -2122,7 +2123,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D28") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -2131,7 +2132,7 @@
   (symbol (lib_id "Device:D_Small") (at 226.06 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6768c4ea-0a73-42bd-82f3-572f80e81d9a)
-    (property "Reference" "D40" (at 223.52 72.39 0)
+    (property "Reference" "D41" (at 223.52 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 223.52 62.23 0)
@@ -2148,7 +2149,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D40") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -2157,7 +2158,7 @@
   (symbol (lib_id "Device:D_Small") (at 119.38 138.43 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b70c4f9-ace0-4c10-8788-e0bbeb9abb76)
-    (property "Reference" "D18" (at 116.84 137.16 0)
+    (property "Reference" "D19" (at 116.84 137.16 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 116.84 127 0)
@@ -2174,7 +2175,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D18") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -2235,7 +2236,7 @@
   (symbol (lib_id "Device:D_Small") (at 210.82 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 764646de-e9e4-487b-9a6d-fae445d94de4)
-    (property "Reference" "D38" (at 208.28 115.57 0)
+    (property "Reference" "D39" (at 208.28 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 208.28 105.41 0)
@@ -2252,7 +2253,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D38") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -2313,7 +2314,7 @@
   (symbol (lib_id "Device:D_Small") (at 226.06 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a2ebcc2-2c0f-4014-91ad-72189deddd53)
-    (property "Reference" "D41" (at 223.52 93.98 0)
+    (property "Reference" "D42" (at 223.52 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 223.52 83.82 0)
@@ -2330,7 +2331,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D41") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -2339,7 +2340,7 @@
   (symbol (lib_id "Device:D_Small") (at 241.3 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b0c0962-98cb-40f9-a817-01cbd7878c7f)
-    (property "Reference" "D43" (at 238.76 72.39 0)
+    (property "Reference" "D44" (at 238.76 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 238.76 62.23 0)
@@ -2356,7 +2357,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D43") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -2365,7 +2366,7 @@
   (symbol (lib_id "Device:D_Small") (at 119.38 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c1fbdc1-984b-454d-ae25-e5c5c792e60f)
-    (property "Reference" "D15" (at 116.84 72.39 0)
+    (property "Reference" "D16" (at 116.84 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 116.84 62.23 0)
@@ -2382,7 +2383,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D15") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -2391,7 +2392,7 @@
   (symbol (lib_id "Device:D_Small") (at 134.62 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8276ce24-7f50-4565-a78f-bf4c793cf63e)
-    (property "Reference" "D20" (at 132.08 93.98 0)
+    (property "Reference" "D21" (at 132.08 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 132.08 83.82 0)
@@ -2408,7 +2409,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D20") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -2417,7 +2418,7 @@
   (symbol (lib_id "Device:D_Small") (at 165.1 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82f1045f-5de7-4229-96dd-2086dd3fe637)
-    (property "Reference" "D25" (at 162.56 72.39 0)
+    (property "Reference" "D26" (at 162.56 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 162.56 62.23 0)
@@ -2434,7 +2435,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D25") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -2469,7 +2470,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 123.19 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8defb5f1-a967-429e-8c68-add8a329fbcf)
-    (property "Reference" "C18" (at 124.0756 101.6 0)
+    (property "Reference" "C17" (at 124.0756 101.6 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 124.0756 102.87 0)
@@ -2486,7 +2487,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "C18") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -2599,7 +2600,7 @@
   (symbol (lib_id "Device:D_Small") (at 119.38 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a77cdf2f-9e75-45dd-8aab-b245d728f088)
-    (property "Reference" "D17" (at 116.84 115.57 0)
+    (property "Reference" "D18" (at 116.84 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 116.84 105.41 0)
@@ -2616,7 +2617,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D17") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -2625,7 +2626,7 @@
   (symbol (lib_id "Device:D_Small") (at 226.06 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa2f234b-0f44-42e2-9460-44dc72f62c04)
-    (property "Reference" "D42" (at 223.52 115.57 0)
+    (property "Reference" "D43" (at 223.52 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 223.52 105.41 0)
@@ -2642,7 +2643,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D42") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -2703,7 +2704,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 138.43 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b3a60f50-f9c2-4852-9ac5-d506414f7b11)
-    (property "Reference" "D35" (at 193.04 137.16 0)
+    (property "Reference" "D36" (at 193.04 137.16 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 193.04 127 0)
@@ -2720,7 +2721,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D35") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -2807,7 +2808,7 @@
   (symbol (lib_id "Device:D_Small") (at 180.34 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc693bf7-606a-41bf-8a62-0c836cba7438)
-    (property "Reference" "D30" (at 177.8 93.98 0)
+    (property "Reference" "D31" (at 177.8 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 177.8 83.82 0)
@@ -2824,7 +2825,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D30") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -2859,7 +2860,7 @@
   (symbol (lib_id "Device:D_Small") (at 210.82 138.43 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca66a31d-e2cf-4080-86fb-7fab0ddccc5d)
-    (property "Reference" "D39" (at 208.28 137.16 0)
+    (property "Reference" "D40" (at 208.28 137.16 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 208.28 127 0)
@@ -2876,7 +2877,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D39") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -2885,7 +2886,7 @@
   (symbol (lib_id "Device:D_Small") (at 180.34 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc72c642-13be-4856-bf42-5f55c5a822ab)
-    (property "Reference" "D29" (at 177.8 72.39 0)
+    (property "Reference" "D30" (at 177.8 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 177.8 62.23 0)
@@ -2902,7 +2903,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D29") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -2937,7 +2938,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 107.95 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cf78f0a6-db81-4a66-ac54-21d39a49248f)
-    (property "Reference" "D45" (at 108.8356 80.01 0)
+    (property "Reference" "D15" (at 108.8356 80.01 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 108.8356 81.28 0)
@@ -2954,7 +2955,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D45") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -2963,7 +2964,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5f8e976-1633-4b0b-8885-797954a62198)
-    (property "Reference" "D34" (at 193.04 115.57 0)
+    (property "Reference" "D35" (at 193.04 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 193.04 105.41 0)
@@ -2980,7 +2981,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D34") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -3119,7 +3120,7 @@
   (symbol (lib_id "Device:D_Small") (at 134.62 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid de24c8ed-77bc-47cc-831d-54d02f119c7c)
-    (property "Reference" "D19" (at 132.08 72.39 0)
+    (property "Reference" "D20" (at 132.08 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 132.08 62.23 0)
@@ -3136,7 +3137,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D19") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -3197,7 +3198,7 @@
   (symbol (lib_id "Device:D_Small") (at 180.34 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e067cbe9-df70-4aa7-bae2-ed98d274ff52)
-    (property "Reference" "D31" (at 177.8 115.57 0)
+    (property "Reference" "D32" (at 177.8 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 177.8 105.41 0)
@@ -3214,7 +3215,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D31") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -3353,7 +3354,7 @@
   (symbol (lib_id "Device:D_Small") (at 134.62 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f06724d5-33c6-424b-91ae-f0dc239c2729)
-    (property "Reference" "D21" (at 132.08 115.57 0)
+    (property "Reference" "D22" (at 132.08 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 132.08 105.41 0)
@@ -3370,7 +3371,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D21") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -3379,7 +3380,7 @@
   (symbol (lib_id "Device:D_Small") (at 149.86 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2cfe1dd-991e-43d2-9f78-100c8f6d0aa5)
-    (property "Reference" "D24" (at 147.32 115.57 0)
+    (property "Reference" "D25" (at 147.32 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 147.32 105.41 0)
@@ -3396,7 +3397,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D24") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -3405,7 +3406,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 168.91 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f47bf934-8bb3-40eb-a9e1-0b8926217ac6)
-    (property "Reference" "J4" (at 169.7956 80.01 0)
+    (property "Reference" "J3" (at 169.7956 80.01 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 169.7956 81.28 0)
@@ -3422,7 +3423,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "J4") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -3457,7 +3458,7 @@
   (symbol (lib_id "Device:D_Small") (at 119.38 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fee1f041-9393-4191-b4e1-72e33caab972)
-    (property "Reference" "D16" (at 116.84 93.98 0)
+    (property "Reference" "D17" (at 116.84 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SOD-123" (at 116.84 83.82 0)
@@ -3474,7 +3475,7 @@
     (instances
       (project "ddkb"
         (path "/85b84858-1c91-402e-8b7c-9a730586bc37/1cf51eb8-a288-4c22-acfb-77ca036787fb"
-          (reference "D16") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
